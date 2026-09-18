@@ -1,0 +1,6 @@
+{
+  "name": "Nazmus Sakib | Investment Calculator",
+  "description": "Professional daily compound profit and investment projection calculator with ISO 4217 currency support, daily breakdown, offline capabilities, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

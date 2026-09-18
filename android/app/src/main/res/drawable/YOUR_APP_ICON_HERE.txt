@@ -1,0 +1,30 @@
+========================================================================
+APP ICON / LOGO ASSET REPLACEMENT GUIDE
+========================================================================
+
+To replace the application icon and branding logo with your own photo or logo:
+
+1. Prepare your custom image:
+   - Format: PNG or JPG
+   - Recommended resolution: 512x512 pixels or 1024x1024 pixels (Square aspect ratio)
+
+2. Replace the following files with your new image:
+   - android/app/src/main/res/drawable/app_logo.png
+   - android/app/src/main/res/drawable/logo.png
+   - public/YOUR_APP_ICON_HERE.png
+   - public/logo.png
+
+3. (Optional) In-App Realtime Upload:
+   Inside the running application, click the camera / upload badge on the
+   app logo in the header to select your photo directly from your device.
+   The app will instantly update your logo across the UI and PDF watermark!
+
+4. Regenerate Android mipmap launcher icons:
+   - mipmap-mdpi/ic_launcher.png (48x48)
+   - mipmap-hdpi/ic_launcher.png (72x72)
+   - mipmap-xhdpi/ic_launcher.png (96x96)
+   - mipmap-xxhdpi/ic_launcher.png (144x144)
+   - mipmap-xxxhdpi/ic_launcher.png (192x192)
+   - drawable/ic_launcher_512.png (512x512)
+
+========================================================================

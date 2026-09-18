@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nazmus Sakib | Investment Calculator</string>
+    <string name="app_package">com.nazmussakib.investmentcalculator</string>
+    <string name="disclaimer_bn">এই ফলাফল ব্যবহারকারীর দেওয়া তথ্যের ভিত্তিতে গাণিতিক হিসাব মাত্র। এটি নিশ্চিত মুনাফার নিশ্চয়তা বা আর্থিক পরামর্শ নয়।</string>
+    <string name="disclaimer_en">These results are mathematical projections based on the entered assumptions and are not guaranteed returns or financial advice.</string>
+</resources>
